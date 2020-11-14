@@ -1,0 +1,4 @@
+One-way ANOVA F value for resident MMCI data: 25.893543360024918
+One-way ANOVA P value for resident MMCI data: 1.1673995502981575e-11
+One-way ANOVA F value for attending MMCI data: 1.8472760887669861
+One-way ANOVA P value for attending MMCI data: 0.15826534846022153
